@@ -24,9 +24,6 @@ Welcome to my Github!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1475505&hide=prs&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1475505&hide=Tcl,Perl,Makefile,CSS,HTML,Yacc,Lex,Verilog&langs_count=6&layout=compact&hide_border=true&repo=convoychat" />
-</a>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
