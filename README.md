@@ -18,6 +18,7 @@ Welcome to my Github!
 * Study in: [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/)
 * School of Computer Science~
 - 💬 Contact me at liul2566@bupt.edu.cn
+𝕿𝖆𝖑𝖐 𝖎𝖘 𝖈𝖍𝖊𝖆𝖕, 𝖘𝖍𝖔𝖜 𝖒𝖊 𝖙𝖍𝖊 𝖈𝖔𝖉𝖊.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=1475505&hide=prs&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&repo=github-readme-stats" />
