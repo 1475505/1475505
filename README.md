@@ -28,16 +28,12 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2021 - To: 30 September 2022
+From: 25 September 2022 - To: 02 October 2022
 
-Total Time: 312 hrs 18 mins
+Total Time: 2 hrs 20 mins
 
-Java                  94 hrs 46 mins  >>>>>>>>-----------------   30.35 %
-C                     70 hrs 23 mins  >>>>>>-------------------   22.54 %
-C++                   56 hrs 1 min    >>>>---------------------   17.94 %
-Vue.js                24 hrs 11 mins  >>-----------------------   07.75 %
-Python                9 hrs 54 mins   >------------------------   03.17 %
-Markdown              8 hrs 35 mins   >------------------------   02.75 %
+Java   1 hr 53 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.51 %
+Go     27 mins         ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.49 %
 ```
 
 <!--END_SECTION:waka-->
