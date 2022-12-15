@@ -28,12 +28,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 13 December 2022
+From: 07 December 2022 - To: 14 December 2022
 
-Total Time: 4 hrs 10 mins
+Total Time: 31 mins
 
-C++   4 hrs 8 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.12 %
-C     2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 %
+C++   31 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
