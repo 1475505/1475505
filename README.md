@@ -28,7 +28,11 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 January 2023 - To: 08 January 2023
+
+Total Time: 2 mins
+
+Markdown   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
