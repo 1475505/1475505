@@ -28,7 +28,12 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 January 2023 - To: 23 January 2023
+
+Total Time: 7 mins
+
+Go       7 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.12 %
+go.mod   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.88 %
 ```
 
 <!--END_SECTION:waka-->
