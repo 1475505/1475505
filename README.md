@@ -28,7 +28,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
 Total Time: 1 hr 42 mins
 
