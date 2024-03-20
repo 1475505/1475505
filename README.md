@@ -28,7 +28,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2024 - To: 18 March 2024
+From: 12 March 2024 - To: 19 March 2024
 
 Total Time: 18 mins
 
