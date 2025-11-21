@@ -30,7 +30,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2025 - To: 19 November 2025
+From: 13 November 2025 - To: 20 November 2025
 
 Total Time: 0 secs
 
