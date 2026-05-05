@@ -30,7 +30,7 @@ Welcome to my Github!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2026 - To: 03 May 2026
+From: 27 April 2026 - To: 04 May 2026
 
 Total Time: 8 hrs 15 mins
 
